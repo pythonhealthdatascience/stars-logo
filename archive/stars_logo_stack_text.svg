@@ -8,8 +8,8 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25)"
-   sodipodi:docname="stars_logo_stack.svg"
-   inkscape:export-filename="stars_logo_stack.png"
+   sodipodi:docname="stars_logo_stack_text.svg"
+   inkscape:export-filename="stars_logo_stack_text.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -79,6 +79,12 @@
        width="260.72986"
        height="63.538857"
        id="rect14-3" />
+    <rect
+       x="906.61914"
+       y="100.61633"
+       width="531.16217"
+       height="182.26077"
+       id="rect2" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -139,5 +145,65 @@
        inkscape:transform-center-x="-0.1376953"
        inkscape:transform-center-y="-7.8693"
        transform="matrix(1.9739856,0,0,1.9739856,1.5110707,-11.697696)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(2.0653109,0,0,2.0653109,-1659.2268,-201.43796)"
+       id="text1"
+       style="letter-spacing:0.357422px;white-space:pre;shape-inside:url(#rect2);display:inline;fill:none;stroke:#ec6f00;stroke-width:1.2926"><tspan
+         x="906.61914"
+         y="111.23438"
+         id="tspan15"><tspan
+           style="fill:#387ca2;stroke:#387ca2"
+           id="tspan10">S</tspan><tspan
+           style="stroke:#94c2d9"
+           id="tspan12">haring</tspan><tspan
+           style="font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';stroke:#387ca2"
+           id="tspan13">
+</tspan></tspan><tspan
+         x="906.61914"
+         y="126.23438"
+         id="tspan21"><tspan
+           style="stroke:#387ca2"
+           id="tspan16">T</tspan><tspan
+           style="stroke:#94c2d9"
+           id="tspan18">ools and</tspan><tspan
+           style="font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';stroke:#387ca2"
+           id="tspan19">
+</tspan></tspan><tspan
+         x="906.61914"
+         y="141.23438"
+         id="tspan25"><tspan
+           style="stroke:#387ca2"
+           id="tspan22">A</tspan><tspan
+           style="stroke:#94c2d9"
+           id="tspan23">rtifacts for</tspan><tspan
+           style="font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';stroke:#387ca2"
+           id="tspan24">
+</tspan></tspan><tspan
+         x="906.61914"
+         y="156.23438"
+         id="tspan29"><tspan
+           style="stroke:#387ca2"
+           id="tspan26">R</tspan><tspan
+           style="stroke:#94c2d9"
+           id="tspan27">eusable</tspan><tspan
+           style="font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';stroke:#387ca2"
+           id="tspan28">
+</tspan></tspan><tspan
+         x="906.61914"
+         y="171.23438"
+         id="tspan33"><tspan
+           style="stroke:#387ca2"
+           id="tspan30">S</tspan><tspan
+           style="stroke:#94c2d9"
+           id="tspan31">imulations</tspan><tspan
+           style="font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';stroke:#387ca2"
+           id="tspan32">
+</tspan></tspan><tspan
+         x="906.61914"
+         y="186.23438"
+         id="tspan35"><tspan
+           style="stroke:#94c2d9"
+           id="tspan34">in healthcare</tspan></tspan></text>
   </g>
 </svg>
