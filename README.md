@@ -6,6 +6,4 @@ To modify, open within Inkscape.
 
 To convert to PNG, open within Inkscape and select File > Export PNG image.
 
-## License
-
-This logo is publicly shared under a CC-BY-4.0 license.
+This logo is shared under a CC-BY-4.0 license.
